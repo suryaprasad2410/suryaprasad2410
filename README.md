@@ -12,11 +12,11 @@
 ## 👨‍💻 About Me
 
 - 🎓 I'm currently a student passionate about **Software Development** and **Problem Solving**
-- 🌱 I'm learning **Java, Spring Boot, and Advanced DSA**
+- 🌱 I'm learning **Java, Python and  DSA**
 - 🤖 Exploring the world of **AI & Machine Learning**
 - 💼 I’m building projects in **Web Development** and **AI applications**
 - 🧩 I love breaking down complex problems into simple solutions
-- 📬 Reach me at: `your.email@example.com`
+- 📬 Reach me at: `suryaprasad3215@gmail.com`
 
 ---
 
@@ -26,7 +26,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,27 +45,12 @@
 
 ## 📂 Projects
 
-### 🧠 AI + Utility
-- 🔍 [AI-Powered Job Tracker](https://github.com/your-github-username/ai-job-tracker)  
-  *Track, organize, and get smart suggestions for job applications.*
-
-- 🧾 [Personal Knowledge Base with AI Search](https://github.com/your-github-username/personal-ai-kb)  
-  *An AI-powered search engine over your notes & docs.*
-
-### 🌐 Web Development
-- 💻 [Portfolio Website](https://github.com/your-github-username/portfolio-website)  
-  *Responsive personal portfolio built with React.*
-
-- 📘 [College Event Management System](https://github.com/your-github-username/college-events)  
-  *Full-stack platform for event creation, tracking, and announcements.*
 
 ---
 
 ## 📚 Certifications
 
-- ✅ Java Programming — *Coding Ninjas / Udemy / Coursera*
-- ✅ Web Development Bootcamp — *freeCodeCamp / Udemy*
-- ✅ SQL & Databases — *HackerRank / Coursera*
+
 
 ---
 
@@ -75,11 +59,11 @@
 - 🥇 Solved **300+** DSA problems on LeetCode, GFG, and CodeStudio
 - 🎯 Built **5+ personal projects** from scratch
 - 🛠 Participated in **Hackathons** and coding competitions
-- 📢 Conducted tech sessions in college on **Git & Open Source**
+
 
 ---
 
-## 📖 Learning Goals – 2025
+## 📖 Learning Goals – 2026
 
 - 🔹 Master Java Backend (Spring Boot + REST APIs)
 - 🔹 Crack Product-Based Company Interviews (DSA + System Design)
@@ -100,7 +84,7 @@
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/suryaprasadgarimella/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:your.email@suryaprasad3215@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
